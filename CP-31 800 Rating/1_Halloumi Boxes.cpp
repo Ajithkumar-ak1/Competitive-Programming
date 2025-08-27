@@ -25,7 +25,6 @@ int main()
             else cout<<"YES"<<endl;
         }
         testcases--;
-        
     }
     return 0;
 }
