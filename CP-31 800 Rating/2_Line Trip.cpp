@@ -1,4 +1,4 @@
-//Solution Date27/08/2025
+//Solution Date 27/08/2025
 #include<bits/stdc++.h>
 using namespace std;
 int main()
