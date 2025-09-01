@@ -18,7 +18,7 @@ int main()
         for (long long i = 0; i < n - 1; i++) 
             sum += a[i]; 
 
-        cout << -1 * sum << endl; 
+        cout <<-1 *sum << endl; 
     }
     return 0; 
 }
